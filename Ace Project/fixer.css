@@ -10,7 +10,7 @@ header.heading{
     width: 100%;
 }
 header.heading div{
-    color: gold;
+    color: green;
     text-align: center;
     position: relative;
     display: inline-flex;
