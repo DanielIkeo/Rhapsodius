@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../HTML File"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Ace Project"
+	}
+}
