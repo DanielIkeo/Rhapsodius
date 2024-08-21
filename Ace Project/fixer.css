@@ -1,41 +1,30 @@
 body{
     margin: 0;
     padding: 0;
+    background-color: #373737;
 }
-
 
 header.heading{
     background-image:url("Images/action\ shot.png");
-    height: 430px;
-    width: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 0;
+    padding-bottom: 48%;
+    border-bottom-left-radius: 15%;
+    border-bottom-right-radius: 15%;
 }
 
 header.heading div{
-    color: pink;
-    text-align: center;
-    position: relative;
-    display: inline-flex;
-    left: 500px;
-    margin-right: 10px;
+    color: gold;
+    font-size: 1.5vw;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content:center;
+    align-items:center;
+    background-color: #373737;
 }
 
-/*
-@media screen and (min-width: 600px) {
-    header.heading{
-        background-image:url("Images/action\ shot.png");
-        height: auto;
-        max-width: 100%;
-    }
-}
-
-@media screen and (min-width: 1200px) {
-    header.heading{
-        background-image:url("Images/action\ shot.png");
-        height: 860px;
-        width: 100%;
-    }
-}
-*/
 
 section.schedule{
     height: 800px;
