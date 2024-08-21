@@ -9,6 +9,7 @@ header.heading{
     height: 430px;
     width: 100%;
 }
+
 header.heading div{
     color: gold;
     text-align: center;
@@ -18,6 +19,23 @@ header.heading div{
     margin-right: 10px;
 }
 
+/*
+@media screen and (min-width: 600px) {
+    header.heading{
+        background-image:url("Images/action\ shot.png");
+        height: auto;
+        max-width: 100%;
+    }
+}
+
+@media screen and (min-width: 1200px) {
+    header.heading{
+        background-image:url("Images/action\ shot.png");
+        height: 860px;
+        width: 100%;
+    }
+}
+*/
 
 section.schedule{
     height: 800px;
