@@ -28,6 +28,24 @@ header.heading a{
     background-color: #373737;
 }
 
+@keyframes fade {
+    0% {opacity: 0; transform: translateX(-80%);}
+    100% {opacity: 1; transform: translateX(0%);}
+}
+
+section.name p{
+    color:white;
+    -webkit-text-stroke-color: black;
+    animation-name: fade;
+    animation-duration: 7s;
+    animation-timing-function: ease;
+    font-weight:800;
+    font-size: 4vw;
+    text-align: center;
+    margin-top:-18vw;
+    margin-bottom: 18vw;
+}
+
 /*ABOUT*/
 section.about div{
     height: 0;
