@@ -56,7 +56,6 @@ section.schedule{
     height: 800px;
     width: 100%;
     display: inline-block;
-    background-color: rgb(56, 56, 56);
 }
 section.schedule div.events{
     height: 650px;
