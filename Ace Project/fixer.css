@@ -31,7 +31,7 @@ section.schedule{
     width: 100%;
     top: -50px;
     display: inline-block;
-    background-color: rgb(56, 56, 56);
+    background-color: #373737;
 }
 section.schedule div{
     height: 600px;
