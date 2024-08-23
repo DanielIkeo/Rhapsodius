@@ -34,7 +34,7 @@ header.heading a{
 }
 
 section.name p{
-    color:white;
+    color: white;
     -webkit-text-stroke-color: black;
     animation-name: fade;
     animation-duration: 7s;
@@ -43,7 +43,7 @@ section.name p{
     font-size: 4vw;
     text-align: center;
     margin-top:-18vw;
-    margin-bottom: 18vw;
+    margin-bottom:18vw;
 }
 
 /*ABOUT*/
